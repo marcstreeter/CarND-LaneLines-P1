@@ -23,5 +23,4 @@ __pycache__
 .coverage
 *.swp
 
-# project
-*.mp4
+
